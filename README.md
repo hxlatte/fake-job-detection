@@ -164,28 +164,11 @@ Returns standard prediction metrics alongside intermediate pipeline states (conc
 
 ### 🛡️ Job Integrity Analysis Dashboard (Clean / Genuine Job)
 > *When a listing is verified as legitimate, the interface highlights a pristine green confirmation card while cleanly omitting unnecessary risk panels.*
-```
-+-----------------------------------------------------------------------+
-|  ✅ Genuine Job Posting Verified                                      |
-|  No significant fraud indicators were detected. This job posting      |
-|  appears consistent with legitimate job listings based on the trained |
-|  machine learning model.                                              |
-+-----------------------------------------------------------------------+
-```
+
 <img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/db4e4fb7-099c-47b7-9355-82f344e660c3" />
 
 ### ⚠️ Fraudulent Listing Triage (High Risk Warning)
 > *For suspicious listings, the application immediately populates threat breakdowns, linguistic scam triggers, and actionable security recommendations.*
-```
-+-----------------------------------------------------------------------+
-|  ⚠️ High Risk Report: Suspicious Hiring Phrases (4 Flagged)          |
-|  Linguistic triggers matched: "earn money fast, wire transfers..."    |
-+-----------------------------------------------------------------------+
-|  💡 Recommendations:                                                  |
-|  - Avoid sharing personal information.                                |
-|  - Do not pay any registration fees.                                  |
-+-----------------------------------------------------------------------+
-```
 
 <img width="1600" height="827" alt="image" src="https://github.com/user-attachments/assets/631193eb-1b95-4cfa-9183-ff6557459c05" />
 ---
