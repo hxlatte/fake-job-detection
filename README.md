@@ -172,6 +172,7 @@ Returns standard prediction metrics alongside intermediate pipeline states (conc
 |  machine learning model.                                              |
 +-----------------------------------------------------------------------+
 ```
+<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/db4e4fb7-099c-47b7-9355-82f344e660c3" />
 
 ### ⚠️ Fraudulent Listing Triage (High Risk Warning)
 > *For suspicious listings, the application immediately populates threat breakdowns, linguistic scam triggers, and actionable security recommendations.*
@@ -186,6 +187,7 @@ Returns standard prediction metrics alongside intermediate pipeline states (conc
 +-----------------------------------------------------------------------+
 ```
 
+<img width="1600" height="827" alt="image" src="https://github.com/user-attachments/assets/631193eb-1b95-4cfa-9183-ff6557459c05" />
 ---
 
 ## 🔒 Security & Best Practices
